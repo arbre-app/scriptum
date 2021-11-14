@@ -1,0 +1,11 @@
+#svg-container > svg {
+    max-width: 100%;
+}
+
+.react-transform-wrapper {
+    width: 100% !important;
+    cursor: move;
+    max-height: 75vh;
+    height: 100%;
+    min-height: 40vh;
+}
